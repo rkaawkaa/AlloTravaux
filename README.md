@@ -69,13 +69,13 @@ Pour chaque fonctionnalité à développer, on crée une branche respectant les 
 ## Commant lancer notre application
 
 Si vous êtes dans la liste des développeurs
-- Acceptez l'invitation : [ ] [Lien de l'APK sur le PlayStore](https://play.google.com/apps/internaltest/4701328031854448885)
+- Acceptez l'invitation : [ ] [Lien de l'APK sur le PlayStore](https://play.google.com/apps/internaltest/4701328031854448885) **déprécié**
 - Télécharger et installez
 - Enjoy the fun
 
 Si vous souhaitez récuperer et développer le projet
 - Installer flutter et un IDE adéquate (Visual Studio Code)
-- git clone https://forge.iut-larochelle.fr/mruffray/allotravaux
+- git clone https://github.com/rkaawkaa/AlloTravaux
 - Ouvrir le dossier / projet
 - flutter get pub
 - flutter run
