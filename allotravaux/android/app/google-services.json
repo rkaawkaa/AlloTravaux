@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851334652491",
+    "project_id": "allo-travaux",
+    "storage_bucket": "allo-travaux.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851334652491:android:0c8449785ec0e370b323ce",
+        "android_client_info": {
+          "package_name": "fr.univ.allotravaux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851334652491-eerds40bqobcorl33hvuh3lrrohc9u4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Ogi1ekCoIOn3CY6Ox4EURfkGnjm85dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851334652491-eerds40bqobcorl33hvuh3lrrohc9u4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

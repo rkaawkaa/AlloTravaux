@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "firstName": "Carlos",
+      "lastName": "Santos",
+      "job": "Plombier",
+      "availability": "available",
+      "image": "https://www.woolha.com/media/2020/03/eevee.png",
+      "description": "Plombier depuis 10 ans, j'ai à coeur de bien travailler et de satisfaire mes clients.",
+      "address": "6 rue des Tuyaux 17000 La Rochelle"
+    },
+    {
+      "id": 2,
+      "firstName": "Jean",
+      "lastName": "Auriau",
+      "job": "Menuisier",
+      "availability": "medium",
+      "image": "https://www.woolha.com/media/2020/03/eevee.png",
+      "description": "Mes créations sont uniques et jolies.",
+      "address": "6 rue des Planches 17000 La Rochelle"
+    },
+    {
+      "id": 3,
+      "firstName": "Pierre",
+      "lastName": "Durand",
+      "job": "Peintre",
+      "availability": "notavailable",
+      "image": "https://www.woolha.com/media/2020/03/eevee.png",
+      "description": "Je peins avec mon père depuis mes 16 ans. Ayant repris l'entreprise, nous avons déjà aidé plus de 400 clients.",
+      "address": "23 avenue des Pinceaux 17000 La Rochelle"
+    },
+    {
+      "id": 1,
+      "firstName": "Maxime",
+      "lastName": "BOUDIER",
+      "job": "Plombier",
+      "availability": "available",
+      "image": "https://www.woolha.com/media/2020/03/eevee.png",
+      "description": "Je travaille en tant qu'indépendant depuis le mois de mars 2022.",
+      "address": "14 rue du triangle 17000 La Rochelle"
+    }
+  ]
+}

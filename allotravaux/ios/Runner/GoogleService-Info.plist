@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>851334652491-u30946jbf413dpej3p079jqepssuhi3q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.851334652491-u30946jbf413dpej3p079jqepssuhi3q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwZU6GXgj2BXgmMYX1B_drBiVomo_C8fo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>851334652491</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fr.univ.allotravaux</string>
+	<key>PROJECT_ID</key>
+	<string>allo-travaux</string>
+	<key>STORAGE_BUCKET</key>
+	<string>allo-travaux.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:851334652491:ios:27f4222bd7ffa96db323ce</string>
+</dict>
+</plist>
